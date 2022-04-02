@@ -25,7 +25,7 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kalki ser/Kalki_Ser-2.0)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kalkiser/Kalki_Ser-2.0)
 
 ## `DEPLOY`
 
