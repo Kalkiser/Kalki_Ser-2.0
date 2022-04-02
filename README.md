@@ -1,4 +1,4 @@
-# KALKI_SER_2.0
+# KALKI_SER-2.0
 
 <div align="center">
   <img border-radius: 15px src="Kalki_ser.jpg" width="200" height="200"/>
