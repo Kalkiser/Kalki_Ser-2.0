@@ -1,11 +1,11 @@
-# NANDHUTTY-V3
+# KALKI_SER_2.0
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/a5476198bcf35794b7953.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Kalki_ser.jpg" width="200" height="200"/>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/918078785865"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
