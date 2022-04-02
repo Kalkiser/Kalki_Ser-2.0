@@ -30,7 +30,7 @@
 ## `DEPLOY`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Kalki_Ser-2.0.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalkiser/Kalki_Ser-2.0.git) 
 ----------
 
 
