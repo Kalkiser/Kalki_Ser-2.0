@@ -1,3 +1,22 @@
+Skip to content
+Kalkiser
+/
+Kalki_Ser-2.0
+Public
+forked from Kalkiser/Nandhutty-V3
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Kalki_Ser-2.0/main.js
+@Kalkiser
+Kalkiser Nandhutty-V3
+ 1 contributor
+246 lines (231 sloc)  8.12 KB
 require('./config.js')
 const { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
 const cloudDBAdapter = require('./lib/cloudDBAdapter')
@@ -53,7 +72,7 @@ if (!opts['test']) setInterval(async () => {
 if (opts['server']) require('./server')(global.conn, PORT)
 
 conn.version = [3, 3234, 9]
-conn.browserDescription = [" Nandhutty V3 ", "safari", "3.0.0"];
+conn.browserDescription = [" Kalki_Ser-2.0 ", "safari", "3.0.0"];
 conn.connectOptions.maxQueryResponseTime = 60_000
 if (opts['test']) {
   conn.user = {
@@ -244,3 +263,16 @@ async function _quickTest() {
 _quickTest()
   .then(() => conn.logger.info('Quick Test Done'))
   .catch(console.error)
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
